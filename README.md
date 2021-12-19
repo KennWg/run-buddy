@@ -1,4 +1,4 @@
-# Run Buddy Inc.
+# Run Buddy, Inc.
 
 # Run Buddy
 
@@ -15,3 +15,4 @@ https://kennwg.github.io/run-buddy/
 ## Contribution
 Made with ❤️ by KennWg
 
+### ©️2019 Run Buddy, Inc 
